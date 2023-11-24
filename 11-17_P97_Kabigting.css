@@ -1,0 +1,17 @@
+h2, h1 {
+	text-align: center;
+}
+div {
+	color: white;
+	padding: 20px;
+	margin: 30px;
+	width: 93%;
+	padding: 30px;
+}
+
+#heath  {
+	background-color: red;
+}
+#haine  {
+	background-color: green;	
+}
